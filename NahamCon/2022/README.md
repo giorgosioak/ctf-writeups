@@ -15,7 +15,7 @@ nikosboum:   🗡️🩸First Blood Hardware/RF/Gary's Sauce🩸🗡️
 | Challenge                    | Category      | Value | Time                    |
 |------------------------------|---------------|-------|-------------------------|
 | [Click Me!](ClickMe)         | Mobile        |   466 | April 28th, 10:04:18 PM |
-| Mobilize                     | Mobile        |    50 | April 28th, 10:55:13 PM |
+| [Mobilize](Mobilize)         | Mobile        |    50 | April 28th, 10:55:13 PM |
 | [OTPVault](OTPVault)         | Mobile        |   402 | April 28th, 11:16:50 PM |
 | Flagcat                      | Warmups       |    50 | April 28th, 11:28:47 PM |
 | Read The Rules               | Warmups       |    50 | April 28th, 11:29:53 PM |
