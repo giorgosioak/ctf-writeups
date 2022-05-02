@@ -19,7 +19,7 @@ nikosboum:   🗡️🩸First Blood Hardware/RF/Gary's Sauce🩸🗡️
 | Quirky            | Warmups       |    50 | April 28th, 11:32:23 PM |
 | Read The Rules    | Warmups       |    50 | April 28th, 11:29:53 PM |
 | The Balloon       | Miscellaneous |   133 | April 29th, 3:25:10 AM  |
-| Click Me!         | Mobile        |   466 | April 28th, 10:04:18 PM | 
+| [Click Me!](ClickMe) | Mobile        |   466 | April 28th, 10:04:18 PM | 
 | Mobilize          | Mobile        |    50 | April 28th, 10:55:13 PM |
 | Peanutbutter      | Forensics     |   500 | April 30th, 1:57:54 AM  |
 | Technical Support | Warmups       |    50 | April 28th, 11:33:01 PM |
