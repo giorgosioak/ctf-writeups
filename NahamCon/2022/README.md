@@ -22,7 +22,7 @@ nikosboum:   🗡️🩸First Blood Hardware/RF/Gary's Sauce🩸🗡️
 | [Click Me!](ClickMe) | Mobile        |   466 | April 28th, 10:04:18 PM | 
 | Mobilize          | Mobile        |    50 | April 28th, 10:55:13 PM |
 | [OTPVault](OTPVault) | Mobile | 402 | April 28th, 11:16:50 PM |
-| Peanutbutter      | Forensics     |   500 | April 30th, 1:57:54 AM  |
+| [Peanutbutter](Peanutbutter) | Forensics     |   500 | April 30th, 1:57:54 AM  |
 | Technical Support | Warmups       |    50 | April 28th, 11:33:01 PM |
 | Keeber 1          | OSINT         |    50 | April 29th, 12:35:42 AM |
 | Keeber 2          | OSINT         |    50 | April 29th, 12:37:39 AM |
@@ -30,4 +30,4 @@ nikosboum:   🗡️🩸First Blood Hardware/RF/Gary's Sauce🩸🗡️
 | [LOLD](LOLD)      | Scripting     |   383 | April 29th, 10:15:58 PM |
 | [LOLD2](LOLD)     | Scripting     |   465 | April 30th, 12:06:22 AM |
 | [LOLD3](LOLD)     | Scripting     |   472 | April 30th, 12:09:19 AM |
-| Jelly             | Forensics     |   500 | April 30th, 2:59:27 AM  |
+| [Jelly](Jelly)    | Forensics     |   500 | April 30th, 2:59:27 AM  |
