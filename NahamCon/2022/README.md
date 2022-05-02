@@ -21,6 +21,7 @@ nikosboum:   🗡️🩸First Blood Hardware/RF/Gary's Sauce🩸🗡️
 | The Balloon       | Miscellaneous |   133 | April 29th, 3:25:10 AM  |
 | [Click Me!](ClickMe) | Mobile        |   466 | April 28th, 10:04:18 PM | 
 | Mobilize          | Mobile        |    50 | April 28th, 10:55:13 PM |
+| [OTPVault](OTPVault) | Mobile | 402 | April 28th, 11:16:50 PM |
 | Peanutbutter      | Forensics     |   500 | April 30th, 1:57:54 AM  |
 | Technical Support | Warmups       |    50 | April 28th, 11:33:01 PM |
 | Keeber 1          | OSINT         |    50 | April 29th, 12:35:42 AM |
