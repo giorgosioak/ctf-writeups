@@ -1,6 +1,6 @@
 # Click Me! 
 
-Mobile, Hard, 485 Points 🗡️🩸First Blood🩸🗡️
+Mobile, Hard, 466 Points 🗡️🩸First Blood🩸🗡️
 
 > I created a cookie clicker application to pass the time. There's a special prize that I can't seem to get. 
 
